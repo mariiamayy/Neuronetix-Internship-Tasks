@@ -11,4 +11,3 @@ The tasks included using data analysis tools:
 
 
  
-to perform different analysis techniques and approaches to leverage data for meaningful insights.

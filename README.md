@@ -6,7 +6,7 @@ The tasks included using data analysis tools:
 - Excel (VLookup, Conditional Formatting, Pivot Tables)
 - Microsoft Power BI Dashboard (Hotel Booking Analysis)
 ![image](https://github.com/user-attachments/assets/b30d9101-2ade-495a-a2df-7c8c1e8fa3f8)
-- Onyx Data Final Project 
+- Onyx Data Final Project (Complete data analysis project using Python, Excel and Power BI)
 
 
 
